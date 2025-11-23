@@ -1,0 +1,9 @@
+streamlit>=1.22
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4  # or use faiss-cpu from pip; on Windows you may prefer "scikit-learn" fallback
+python-dotenv>=1.0.0
+PyPDF2>=3.0.0
+groq
+SpeechRecognition 
+pydub
+gTTS
