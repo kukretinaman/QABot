@@ -1,7 +1,3 @@
-Here is a **clean, professional, production-ready README.md** for your **Voice Bot (Streamlit + STT + TTS)** project — perfect for GitHub & Render deployment.
-
----
-
 # 🗣️ **Voice-Enabled AI Assistant**
 
 A lightweight, deployable **voice chatbot** built using **Streamlit**, **SpeechRecognition**, and **Google Text-to-Speech (gTTS)**.
