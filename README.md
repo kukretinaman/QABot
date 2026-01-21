@@ -46,8 +46,8 @@ voice-bot/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/voice-bot.git
-cd voice-bot
+git clone https://github.com/kukretinaman/QABot.git
+cd QABot
 ```
 
 ### 2. Install dependencies
